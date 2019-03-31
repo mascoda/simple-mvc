@@ -1,0 +1,21 @@
+{
+    "name": "warzz/heiko.mettelsiefen",
+    "description": "startup lib and project",
+    "type": "library",
+    "license": "propietary",
+    "authors": [
+        {
+            "name": "Heiko Mettelsiefen",
+            "email": "heiko.mettelsiefen@mybannerworld.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+       
+    },
+				"autoload": {
+					"psr-4": {
+						"HM\\":"classes/"
+					}
+				}
+}
